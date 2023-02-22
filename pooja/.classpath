@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-17.0.1">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/selinium folder/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/selinium folder/automationUtilities-pro-1.0 (1).jar"/>
+	<classpathentry kind="lib" path="C:/selinium folder/commons-codec-1.12.jar"/>
+	<classpathentry kind="lib" path="C:/selinium folder/commons-collections4-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/selinium folder/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/selinium folder/commons-lang3-3.9 (1).jar"/>
+	<classpathentry kind="lib" path="C:/selinium folder/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/selinium folder/extentreports-2.41.2 (1).jar"/>
+	<classpathentry kind="lib" path="C:/selinium folder/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/selinium folder/extentreports-3.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/selinium folder/httpclient5-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/selinium folder/httpclient5-5.1.1 (1).jar"/>
+	<classpathentry kind="lib" path="C:/selinium folder/httpclient5-5.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/selinium folder/httpcore5-5.0.2 (1).jar"/>
+	<classpathentry kind="lib" path="C:/selinium folder/httpcore5-5.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/selinium folder/httpcore5-5.1.1 (1).jar"/>
+	<classpathentry kind="lib" path="C:/selinium folder/httpcore5-5.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/selinium folder/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/selinium folder/slf4j-api-1.7.36 (1).jar"/>
+	<classpathentry kind="lib" path="C:/selinium folder/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="C:/selinium folder/slf4j-log4j12-1.7.16-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/selinium folder/slf4j-log4j12-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/selinium folder/slf4j-log4j12-1.8.0-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/selinium folder/slf4j-simple-1.7.36.jar"/>
+	<classpathentry kind="lib" path="C:/selinium folder/webdrivermanager-5.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
